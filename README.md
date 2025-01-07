@@ -6,3 +6,5 @@
 
 ## 스타일 구성
 - style.md 추가
+
+# 수정한 README.md 파일
