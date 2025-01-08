@@ -1,10 +1,7 @@
-# suho 미니 홈페이지
-# 혈액형
-# hello?
-# modify README.md 1.
-# modify README.md in GitHub.
+# 미니 홈페이지
 
 ## 스타일 구성
 - style.md 추가
 
-# 수정한 README.md 파일
+## 구매 페이지 추가
+- buy.md 추가
