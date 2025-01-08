@@ -11,5 +11,6 @@
 - about.md 추가
 ## 네이게이션 추가
 - navigation.md 추가
-## 푸터 추가
-- footer.md 추가
+## 푸터 기능 추가
+## 푸터 수정
+- footer.md 수정
